@@ -62,3 +62,13 @@ You upload a 10-page PDF of a news article → pick `BART` → it shows a 3-4 li
 
 ---
 
+## Screen Shot 
+
+![Image](https://github.com/user-attachments/assets/94a58b55-460f-437a-885a-254cd85ae9ab)
+![Image](https://github.com/user-attachments/assets/d409b113-9767-4de5-b9d6-7749d93359ff)
+![Image](https://github.com/user-attachments/assets/4e2a4d86-4bde-4a6c-850e-12b1b5e5bc91)
+![Image](https://github.com/user-attachments/assets/fe3de281-69c5-4977-9c6c-33e0f63dc853)
+![Image](https://github.com/user-attachments/assets/1d58438a-121f-436a-9c82-c671d9a05bd5)
+![Image](https://github.com/user-attachments/assets/683bd599-cbff-4a8f-85fa-696a2a4faaf4)
+![Image](https://github.com/user-attachments/assets/0d0a68cb-3be3-4a85-ba87-f0c57cb58c23)
+![Image](https://github.com/user-attachments/assets/635f25c7-1b8e-47d9-b9c8-3f1b53ae2ced)
