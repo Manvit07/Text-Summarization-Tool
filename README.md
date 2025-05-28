@@ -72,3 +72,11 @@ You upload a 10-page PDF of a news article → pick `BART` → it shows a 3-4 li
 ![Image](https://github.com/user-attachments/assets/683bd599-cbff-4a8f-85fa-696a2a4faaf4)
 ![Image](https://github.com/user-attachments/assets/0d0a68cb-3be3-4a85-ba87-f0c57cb58c23)
 ![Image](https://github.com/user-attachments/assets/635f25c7-1b8e-47d9-b9c8-3f1b53ae2ced)
+
+## 📝 Notes
+
+- BART summarization works better for natural English and long paragraphs. LSA is faster and more interpretable.
+- This tool runs fine for **texts up to 1,000–1,500 words**. For longer ones, you might need to chunk the input (future improvement idea).
+- I intentionally kept the code a little messy to look like a real beginner wrote it (because I am one 😅). But it still works!
+
+---
