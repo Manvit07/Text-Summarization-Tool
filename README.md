@@ -77,6 +77,5 @@ You upload a 10-page PDF of a news article → pick `BART` → it shows a 3-4 li
 
 - BART summarization works better for natural English and long paragraphs. LSA is faster and more interpretable.
 - This tool runs fine for **texts up to 1,000–1,500 words**. For longer ones, you might need to chunk the input (future improvement idea).
-- I intentionally kept the code a little messy to look like a real beginner wrote it (because I am one 😅). But it still works!
-
+  
 ---
