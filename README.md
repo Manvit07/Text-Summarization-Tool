@@ -15,7 +15,7 @@
 *MENTOR*:  Neela Santhosh Kumar
 
 
-# 📄 Text Summarization Tool Using NLP
+# 📄 Text Summarization Tool Using NLP (CodTech AI Internship - Task 1)
 
 ## ✨ Project Title: **Text Summarization Tool Using NLP**
 
