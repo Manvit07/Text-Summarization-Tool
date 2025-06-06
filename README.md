@@ -1,7 +1,5 @@
 # Text-Summarization-Tool
 
-# INTERACTIVE-QUIZ-APPLICATION
-
 *COMPANY*: CODTECH IT SOLUTIONS PVT.LTD
 
 *NAME*: Manvit Mahesh Deshmukh
